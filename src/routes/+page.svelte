@@ -1,5 +1,5 @@
 <script>
-  import schedule from "../schedule_1.js";
+  import schedule from "../nombre_3.js";
 
   const crono = 110;
 
