@@ -1,25 +1,25 @@
 const schedule = [
     {
-        "Start": "08:40:00",
-        "Ends": "08:40:00",
+        "Start": "09:30:00",
+        "Ends": "09:30:00",
         "Event": "Start Engines",
         "Team": "Mechanics",
         "Digital": "Yes",
         "Day": 2.0
     },
     {
-        "Start": "08:45:00",
-        "Ends": "08:45:00",
+        "Start": "09:35:00",
+        "Ends": "09:35:00",
         "Event": "Drivers in the car",
         "Team": "Drivers",
         "Digital": "Yes",
         "Day": 2.0
     },
     {
-        "Start": "09:00:00",
-        "Ends": "11:00:00",
+        "Start": "09:50:00",
+        "Ends": "10:30:00",
         "Event": "Official Previous Test 1",
-        "Gap": "02:10:00",
+        "Gap": "05:00:00",
         "Team": "All",
         "Digital": "Yes",
         "Day": 2.0
@@ -31,39 +31,39 @@ const schedule = [
         "Day": 2.0
     },
     {
-        "Start": "12:50:00",
-        "Ends": "12:50:00",
+        "Start": "15:10:00",
+        "Ends": "15:10:00",
         "Event": "Start Engines",
         "Team": "Mechanics",
         "Digital": "Yes",
         "Day": 2.0
     },
     {
-        "Start": "12:55:00",
-        "Ends": "12:55:00",
+        "Start": "15:15:00",
+        "Ends": "15:15:00",
         "Event": "Drivers in the car",
         "Team": "Drivers",
         "Digital": "Yes",
         "Day": 2.0
     },
     {
-        "Start": "13:10:00",
-        "Ends": "15:10:00",
+        "Start": "15:30:00",
+        "Ends": "16:10:00",
         "Event": "Official Previous Test 2",
         "Team": "All",
         "Digital": "Yes",
         "Day": 2.0
     },
     {
-        "Start": "15:00:00",
-        "Ends": "18:00:00",
+        "Start": "16:20:00",
+        "Ends": "19:20:00",
         "Event": "Technical Scrutineering",
         "Digital": "Yes",
         "Day": 2.0
     },
     {
-        "Start": "18:30",
-        "Ends": "19:00:00",
+        "Start": "17:00:00",
+        "Ends": "17:30:00",
         "Event": "Drivers briefing",
         "Team": "Drivers",
         "Digital": "Yes",
