@@ -26,7 +26,7 @@ const schedule = [
     },
     {
         "Start": "13:00:00",
-        "Ends": "13:30:00",
+        "Ends": "14:00:00",
         "Event": "Lunch Break",
         "Team": "All",
         "Digital": "Yes",
